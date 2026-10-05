@@ -1,0 +1,4 @@
+data/mushrooms_raw.csv
+__pycache__/
+*.pyc
+.env
